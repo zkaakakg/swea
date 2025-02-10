@@ -1,1 +1,1 @@
-# SWEA-Algorithm
+# SW Expert Academy
